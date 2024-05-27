@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Vinay kumar/IdeaProjects/Vtiger-Crm_Application/src/test/java">
+    <classes>
+        <class name="Contacts_Test"></class>
+        <class name="Products_Test"></class>
+    </classes>
+    </test>
+</suite>
